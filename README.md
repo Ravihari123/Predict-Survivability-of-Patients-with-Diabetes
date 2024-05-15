@@ -5,3 +5,9 @@ Specifically, this study constructed the work toward achieving three research ob
 • To predict the survivability/mortality of patients with diabetes in ICUs
 • To find the best ML model for predicting ICU survivability under diabetes conditions
 • To identify factors that are important in predicting survivability under diabetes conditions at ICUs.
+
+To re-use the code, 
+1. Open the file in google Colab
+2. Load the data file into the drive folder
+3. Update the paths to dataset file (Under Importing Data section in source file)
+4. Execute the source file
