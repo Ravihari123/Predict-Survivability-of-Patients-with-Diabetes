@@ -1,3 +1,7 @@
+NOTE: This repository contains the original academic version of the project.
+For a polished, recruiter-facing version, see: [new repo link](https://github.com/Ravihari123/icu-mortality-prediction-diabetes.git).
+
+
 # Predict-Survivability-of-Patients-with-Diabetes
 This study conducted an approach to predict the ICU survivability of patients with diabetes within the first 24 hours of their admission. A variety of data, such as patient demographic details, data related to ICU stays, laboratory test results taken within 24 hours of admission, and chronic health conditions were used in the analysis. 
 
@@ -13,5 +17,4 @@ To re-use the code,
 4. Execute the source file
 
 
-NOTE: This repository contains the original academic version of the project.
-For a polished, recruiter-facing version, see: [new repo link](https://github.com/Ravihari123/icu-mortality-prediction-diabetes.git).
+
