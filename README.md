@@ -11,3 +11,7 @@ To re-use the code,
 2. Load the data file into the drive folder
 3. Update the paths to dataset file (Under Importing Data section in source file)
 4. Execute the source file
+
+
+NOTE: This repository contains the original academic version of the project.
+For a polished, recruiter-facing version, see: [new repo link](https://github.com/Ravihari123/icu-mortality-prediction-diabetes.git).
